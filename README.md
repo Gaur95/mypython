@@ -5,16 +5,16 @@
 ### modified
 ### history of ubuntu terminal
 ```
-mkdir demoforpy
- 2065  cd demoforpy/
+mkdir demoforpy  ----- to create folder/directory
+ 2065  cd demoforpy/    --- to change directory
  2066  cd
- 2067  pwd
- 2068  ls
+ 2067  pwd   ---- present working directory
+ 2068  ls   ---- list of all file and folder/directory
  2069  cd demoforpy/
  2070  ls
  2071  cd mypython/
  2072  ls
- 2073  gedit hello.py 
- 2074  cat hello.py 
- 2075  python3 hello.py 
+ 2073  gedit hello.py   ------ graphical editor like notepad
+ 2074  cat hello.py    ------ to show file content
+ 2075  python3 hello.py    ----- to run python code
 ```
