@@ -23,3 +23,4 @@ aakashgaur57/upfl_web:18
 aakashgaur57/upfl_web:18
 aakashgaur57/upfl_web:19
 aakashgaur57/upfl_web:22
+aakashgaur57/upfl_web:24
