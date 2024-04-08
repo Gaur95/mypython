@@ -1,1 +1,1 @@
-export ENVQ="hhh"
+export ENVQ="${IMAGE_NAME}"
